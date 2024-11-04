@@ -51,7 +51,7 @@ class Bot {
         headers: {
           'User-Agent': 'Mozilla/5.0',
           pragma: 'no-cache',
-          Origin: 'chrome-extension://lkbnfiajjmbhnfledhphioinpickokdi',
+          Origin: 'chrome-extension://ilehaonighjijnmpnagapkhpcdbhclfg',
           'Accept-Language': 'uk-UA,uk;q=0.9,en-US;q=0.8,en;q=0.7',
           'Cache-Control': 'no-cache',
         },
@@ -145,7 +145,7 @@ class Bot {
               user_agent: 'Mozilla/5.0',
               timestamp: Math.floor(Date.now() / 1000),
               device_type: 'extension',
-              extension_id: 'lkbnfiajjmbhnfledhphioinpickokdi',
+              extension_id: 'ilehaonighjijnmpnagapkhpcdbhclfg',
               version: '4.26.2',
             },
           };
