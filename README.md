@@ -1,6 +1,6 @@
 # getgrass-bot
 
-This repository contains the code for `getgrass-bot`, a bot designed to establish WebSocket connections through various HTTP and SOCKS proxies, specifically aimed at farming for Grass Airdrop Season 2.
+This repository contains the code for `Grassv2`, a bot designed to establish WebSocket connections through various HTTP and SOCKS proxies, specifically aimed at farming for Grass Airdrop Season 2.
 
 ## Overview
 
